@@ -12,7 +12,8 @@ This theme is designed to give your browser a polished, modern look without sacr
 
 ---
 # Take a Look!
-![Captura de tela 2024-12-14 130742](https://github.com/user-attachments/assets/ad048316-a94d-4f26-863d-6a6e37a78e35)
+![Captura de tela 2024-12-14 130742](https://github.com/user-attachments/assets/ad048316-a94d-4f26-863d-6a6e37a78e35) 
+---
 ![image](https://github.com/user-attachments/assets/10160a35-6060-4ecb-b8c4-458fc491ba53)
 ![image](https://github.com/user-attachments/assets/f2dd005c-70bd-4723-890a-b53dbef4cff0)
 ![image](https://github.com/user-attachments/assets/17c1352d-bbde-49d8-bb44-7aaf72d2b39d)
