@@ -1,5 +1,5 @@
 # Syncthing-Modern-Dark
-![Captura de tela 2024-12-14 130742](https://github.com/user-attachments/assets/ad048316-a94d-4f26-863d-6a6e37a78e35)
+
 
 
 ---
@@ -15,3 +15,5 @@ This modern dark theme is designed for sleek, minimalistic aesthetics while ensu
 This theme is designed to give your browser a polished, modern look without sacrificing functionality. Whether you’re working, coding, or browsing, this dark theme offers an elegant, contemporary visual experience. 
 
 ---
+#Take a Look!
+![Captura de tela 2024-12-14 130742](https://github.com/user-attachments/assets/ad048316-a94d-4f26-863d-6a6e37a78e35)
