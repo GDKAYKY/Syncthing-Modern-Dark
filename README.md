@@ -1,5 +1,6 @@
 # Syncthing-Modern-Dark
-![image](https://github.com/user-attachments/assets/2fe750cc-ce42-49db-bf3c-5fe85415dea2)
+![Captura de tela 2024-12-14 130742](https://github.com/user-attachments/assets/ad048316-a94d-4f26-863d-6a6e37a78e35)
+
 
 ---
 
