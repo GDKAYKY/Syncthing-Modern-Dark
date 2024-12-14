@@ -1,7 +1,5 @@
 # Syncthing-Modern-Dark
 
----
-
 This modern dark theme is designed for sleek, minimalistic aesthetics while ensuring a comfortable, eye-friendly experience for nighttime browsing or low-light environments. Featuring deep shades of charcoal and black, the theme is complemented with a clean interface, smooth borders, and highlighted text in high constrat accent colors. The smooth contrast between the dark background and text ensures readability, while strategic use of shades of dark and charcoal adds depth and dimension to the interface.
 
 # Key Features:
