@@ -1,7 +1,7 @@
 @-moz-document regexp("https?://.*:8384/.*") {
 body {
         color: #c4c4c4 !important;
-        background-color: #171717 !important;
+        background-color: #141414 !important;
   }
   a:hover,a:focus,a.focus{
         outline: none !important;
@@ -10,15 +10,15 @@ body {
       
   /* navbar */
   .navbar {
-        background-color: #171717 !important;
+        background-color: #141414 !important;
         border-width: 0px !important;
   }
   .navbar-text, .dropdown>a, .dropdown-menu>li>a, .hidden-xs>a, .navbar-link {
         color: #aaa !important;
   }
   .navbar-brand {
-        margin-left: 0;  /* Remove extra space on the left */
-        padding-left: 0; /* If padding exists, reset it */
+        margin-left: 0;  
+        padding-left: 0; 
   }
 
   .dropdown-menu {
@@ -170,21 +170,4 @@ body {
         background-color: #484848 !important;
   }
       
-  
-  /* progess bars */
-  .progress-bar {
-	      background-color: #217dbb !important;
-  }
-  .progress-bar-success {
-	      background-color: #0A8522 !important;
-  }
-  .progress-bar-info {
-	      background-color: #9b59b6 !important;
-  } 
-  .progress-bar-warning {
-	      background-color: #c29d0b !important;
-  }
-  .progress-bar-danger {
-	      background-color: #d62c1a !important;
-  }
 }
